@@ -1,3 +1,9 @@
+#Author: Michael McCoy
+#Date: 6/4/2018
+#Website: www.slashdba.com
+#LinkedIn: https://www.linkedin.com/in/michael-p-mccoy/
+
+
 #Function Definition
 def list_sum_k(num_list, k):
     result = 'No'
